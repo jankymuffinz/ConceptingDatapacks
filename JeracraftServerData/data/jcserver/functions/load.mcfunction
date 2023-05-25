@@ -1,1 +1,3 @@
-scoreboard objectives add right wyvernToothDetect minecraft.used.minecraft:carrot_on_a_stick
+scoreboard objectives add wyvernToothDetect minecraft.used.minecraft:carrot_on_a_stick,
+scoreboard objectives add wyvernToothTimer,
+scoreboard objectives add spartaTimer
